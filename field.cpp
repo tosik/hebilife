@@ -116,7 +116,7 @@ Field::Field()
 void Field::makeSnake(Snake *s)
 {
 	// ¶¬‚·‚éSnake‚ÌID
-	int id;
+	int id = 0;
 
 	// €‚ñ‚¾Snake‚ğŒŸõ
 	bool flag = false;
@@ -141,7 +141,7 @@ void Field::makeSnake(Snake *s)
 void Field::makeSnake()
 {
 	// ¶¬‚·‚éSnake‚ÌID
-	int id;
+	int id = 0;
 
 	// €‚ñ‚¾Snake‚ğŒŸõ
 	bool flag = false;
