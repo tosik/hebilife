@@ -46,8 +46,8 @@ class Field
 
 		int steps;
 
-		const static int size_x = 45;
-		const static int size_y = 50;
+		const static int size_x = 55;
+		const static int size_y = 43;
 
 		int bodies[size_x][size_y];
 		bool foods[size_x][size_y];
